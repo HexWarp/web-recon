@@ -1,4 +1,4 @@
-# Web-recon
+# Web-Recon
 An automated Bash pipeline for target discovery and vulnerability enumeration.
 
 # 🛠️ Required Dependencies 
